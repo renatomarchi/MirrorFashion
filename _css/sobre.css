@@ -34,6 +34,17 @@ figcaption {
 	margin-top: 10px;
 }
 
+figure#centro-distribuicao {
+	margin-right: auto;
+	margin-left: auto;
+	width: 550px;
+}
+
+figure#familia-pelho {
+	float: right;
+	margin: 0px 0px 10px 10px;
+}
+
 ul {
 	list-style: circle;
 }
@@ -41,4 +52,16 @@ ul {
 a {
 	text-decoration: none;
 	color: black;
+}
+
+div#rodape {
+	color: #777;
+	margin: 30px 0px;
+	padding: 30px 0px;;
+}
+
+div#rodape img {
+	margin-right: 30px;
+	vertical-align: middle;
+	width: 94px;
 }
